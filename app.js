@@ -99,7 +99,9 @@ function advanceForward() {
     getAQuestion()
 	getAnAnswer()
 	flipCard()
-    useTheForce.disabled = false
+	useTheForce.disabled = false
+	
+
 }
 
 
